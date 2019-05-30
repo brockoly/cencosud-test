@@ -5,3 +5,7 @@
 #Builds
 /front/build
 /api/build
+
+#locks
+/api/package-lock.json
+/front/package-lock.json
