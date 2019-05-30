@@ -1,0 +1,7 @@
+#Dependencies
+/front/node_modules
+/api/node_modules
+
+#Builds
+/front/build
+/api/build
