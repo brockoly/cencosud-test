@@ -4,13 +4,14 @@ This project is made to obtain the postition of  Full Stack Developer at Cencosu
 
 ## Getting Started
 
-To be able to run this project you need to install node.js, docker and docker-compose in your local machine
+To be able to run this project you need to install node.js in your local machine
 
 ### Running the project
 
 Enter in the directory api and run
 
 ```
+npm install
 npm run docker:build
 npm run docker:run
 ```
@@ -18,6 +19,7 @@ npm run docker:run
 Then go into the front directory and run
 
 ```
+npm install
 npm run docker:build
 npm run docker:run
 ```
