@@ -12,16 +12,14 @@ Enter in the directory api and run
 
 ```
 npm install
-npm run docker:build
-npm run docker:run
+npm start
 ```
 
 Then go into the front directory and run
 
 ```
 npm install
-npm run docker:build
-npm run docker:run
+npm start
 ```
 
 API will run on `localhost:5000`
