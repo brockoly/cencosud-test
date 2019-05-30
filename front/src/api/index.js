@@ -4,7 +4,7 @@ module.exports.getHouses = async (page, amount) => {
   try {
     const config = {
       timeout: 30000,
-      baseURL: 'http://localhost:5000/houses',
+      baseURL: 'https://gentle-depths-31470.herokuapp.com/houses',
       rejectUnauthorized: false,
       strictSSL: false,
     };
@@ -28,7 +28,7 @@ module.exports.getCharacter = async (currentLord) => {
   try {
     const config = {
       timeout: 30000,
-      baseURL: 'http://localhost:5000/character',
+      baseURL: 'https://gentle-depths-31470.herokuapp.com/character',
       rejectUnauthorized: false,
       strictSSL: false,
     };

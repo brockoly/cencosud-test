@@ -10,6 +10,7 @@
     "react-dom": "^16.8.6",
     "react-modal": "^3.8.1",
     "react-scripts": "0.9.5",
+    "react-scroll-up-button": "^1.6.4",
     "react-spinner-material": "^1.1.1"
   },
   "devDependencies": {},
